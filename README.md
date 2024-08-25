@@ -41,7 +41,7 @@ Welcome to the **X1 Xolana Wallet Address Utility**! This tool is designed to pr
 
 1. **Run the Utility**:
     ```sh
-    python main.py
+    python xolana.py
     ```
 
 2. **Menu Options**:
@@ -57,20 +57,20 @@ Welcome to the **X1 Xolana Wallet Address Utility**! This tool is designed to pr
 
 ## Configuration
 
-- **Keypair**: The tool uses the default keypair from the `solana-cli` configuration. Ensure it is properly set up, or specify the keypair file path in `main.py`.
+- **Keypair**: The tool uses the default keypair from the `solana-cli` configuration. Ensure it is properly set up, or specify the keypair file path in `xolana.py`.
 
 ## Example
 
 To check your balance:
 
 ```sh
-python main.py
+python xolana.py
 
 Select option [1] from the menu to check your balance and recent transactions.
 
 To send xSOL:
 
-python main.py
+python xolana.py
 
 Select option [3], then enter the recipient’s public key and the amount of xSOL to transfer.
 
