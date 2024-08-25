@@ -1,4 +1,4 @@
-# X1 Xolana - Wallet Address Utility
+# X1 Xolana - Python Wallet Utility for Xolana CLI
 
 Welcome to the **X1 Xolana Wallet Address Utility**! This tool is designed to provide seamless interaction with the X1 - Xolana blockchain. You can manage your wallet, check balances, review transaction details, and much more, all through an intuitive and easy-to-use interface.
 
